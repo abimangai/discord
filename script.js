@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const filterItems = () => {
             const searchText = inputBox.value.toLowerCase().trim();
             const selectedButton = document.querySelector('.category.selected');
-            const selectedCategory = selectedButton ? selectedButton.dataset.category : 'all';
+            const selectedCategory = selectedButton ? selectedButton.dataset.category : 'All';
 
             let filteredData = productsData.containers;
             if (selectedCategory !== 'All') {
