@@ -1,0 +1,153 @@
+{
+    "containers": [
+      {
+        "imageSrc": "./images/img1.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo1.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Midjourney",
+          "category": ["Entertainment","Science-and-tech"],
+          "body": {
+            "paragraph": "The official server for Mid-journey,a text-to image AI where your imagination is the only limit.",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      },
+      {
+        "imageSrc": "./images/img2.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo2.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Viggle",
+          "category":["Entertainment","Science-and-tech"],
+          "body": {
+            "paragraph": "Viggle.ai,making any character move as you want.",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      },
+      {
+        "imageSrc": "./images/img3.jpg",
+          "altText": "Description of the third image",
+          "logoSrc": "./images/logo3.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Lime wire- create AI Images,Audio & Video",
+          "category":["Education","Music"],
+          "body": {
+            "paragraph": "Our active text-to-image AI community powers your journey to generate the best art ,images, and design",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      },
+      {
+        "imageSrc": "./images/img4.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo4.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Leonardo.Ai",
+          "category":["Education"],
+          "body": {
+            "paragraph": "Leonardo.Ai is generative AI platform for content creation.Creat game assets, artwork, designs element and work!",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      },
+      {
+        "imageSrc": "./images/img5.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo5.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Genshin Impact Official",
+          "category": ["Gaming", "Entertainment"],
+          "body": {
+            "paragraph": "Welcome to Teyvat ,Traveler! This is the place to discuss with others about your favorite game: Genshin Impact!",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      },
+      {
+        "imageSrc": "./images/img6.svg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo6.jpg",
+          "logoAlt": "First logo description",
+          "heading": "English",
+          "category":["Education"],
+          "body": {
+            "paragraph": "Join the best place to practice your English skills ,with thousands of native speakers and eager learners.",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      },
+      {
+        "imageSrc": "./images/img7.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo7.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Study Together",
+          "category":["Education"],
+          "body": {
+            "paragraph": "The largest study and productivity server on Discord! Study live-time with others via camera, screenshare or chat!",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+      },
+      {
+        "imageSrc": "./images/img8.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo8.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Lofi Girl",
+          "category":["Music"],
+          "body": {
+            "paragraph": "The friendliest community on Discard .Join now to meet amazing people from all around the world.",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+      },
+      {
+        "imageSrc": "./images/img9.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo9.jpg",
+          "logoAlt": "First logo description",
+          "heading": "Dadscord/Daddy | Voice chat,Egirls, Anime,chill,Social.",
+          "category":["Music"],
+          "body": {
+            "paragraph": "#1Themost Active chat & VC[300+Users 24/7]..500+ Emotes,Giveaway..Discord Most active Server since 2017.!",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      },
+      {
+        "imageSrc": "./images/img10.jpg",
+          "altText": "Description of the first image",
+          "logoSrc": "./images/logo10.jpg",
+          "logoAlt": "First logo description",
+          "category":["Music"],
+          "heading": "Gifland",
+          "body": {
+            "paragraph": "Many nitro users have difficulty findings gifs.Our goal is to help them and non-nitro usres.",
+            "subHeading": "1,50000 online &nbsp; | &nbsp; 12,0000 Members"
+          },
+          "downSrc": "./images/verification.png",
+          "divText": "VERIFIED"
+
+      }
+    ]
+  }
+  
